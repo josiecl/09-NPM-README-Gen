@@ -1,9 +1,9 @@
-# j
+# Readme
 ![GitHub license](https://img.shields.io/badge/license-Apache-yellow.svg)
-
-# Contributors
-j
+[GitHub license](https://opensource.org/licenses/Apache)
 
 # Questions
-* Email: j
+* https://github.com/josiecl
+
+* For further questions, email me at josiecollinsrc@gmail.com
 
