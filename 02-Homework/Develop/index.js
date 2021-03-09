@@ -25,6 +25,31 @@ const questions = [
         message: 'What license is your project using?',
         name: 'license',
         choices: ['MIT', 'Apache', 'None'],
+    },
+    {
+        type: 'input',
+        message: 'Describe your project.',
+        name: 'description',
+    },
+    {
+        type: 'input',
+        message: 'What command should be run to install dependencies?',
+        name: 'installation',
+    },
+    {
+        type: 'input',
+        message: 'What command should be run to run tests?',
+        name: 'testing',
+    },
+    {
+        type: 'input',
+        message: 'What is the information for usage of the project?',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'How can people continue to contribute to your project?',
+        name: 'contributions',
     }
 ];
 
