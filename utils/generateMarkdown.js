@@ -46,21 +46,21 @@ ${renderLicenseLink(data.license)}
 ## Description
 ${data.description}
 
+## Usage
+${data.usage}
+
 ## Installation
 To install dependencies, run the following command: 
 
 ${data.installation}
 
-## Usage
-${data.usage}
-
-## Contributing
-${data.contributions}
-
 ## Testing
 To run tests, run the following command: 
 
 ${data.testing}
+
+## Contributing
+${data.contributions}
 
 ## Questions
 * https://github.com/${data.username}
