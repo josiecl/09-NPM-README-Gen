@@ -28,7 +28,9 @@ npm test
 Email me for inquiries about contributions.
 
 ## Questions
-* https://github.com/josiecl
+* My Github: https://github.com/josiecl
 
 * For further questions, email me at josiecollinsrc@gmail.com
 
+## Link to Demo
+[Demo](https://www.youtube.com/watch?v=drNbUbCH9fY&feature=youtu.be&ab_channel=JosieCollins)
